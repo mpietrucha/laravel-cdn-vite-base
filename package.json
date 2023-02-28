@@ -1,6 +1,6 @@
 {
   "name": "laravel-cdn-vite-base",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Vite config base resolver for mpietrucha/laravel-cdn PHP package",
   "main": "index.js",
   "scripts": {
