@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mpietrucha/laravel-cdn-js.git"
+    "url": "git+https://github.com/mpietrucha/laravel-cdn-vite-base.git"
   },
   "author": "Michał Pietrucha",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mpietrucha/laravel-cdn-js/issues"
+    "url": "https://github.com/mpietrucha/laravel-cdn-vite-base/issues"
   },
-  "homepage": "https://github.com/mpietrucha/laravel-cdn-js#readme"
+  "homepage": "https://github.com/mpietrucha/laravel-cdn-vite-base#readme"
 }
